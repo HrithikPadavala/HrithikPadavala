@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HrithikPadavala
 - 👀 I’m interested in Problem Solving using Java, Web Application back-end development using java, Angular/React JS, AWS
 - 🌱 I’m currently learning Interactive Data Visualization technologies like D3
-- 💞️ I’m looking to collaborate on projects that helps me to enhance my skills and expertise
+- 💞️ I’m looking to collaborate on projects that help me to enhance my skills and expertise
 - 📫 Reach me at saihrithk98@gmail.com
 
 <!---
